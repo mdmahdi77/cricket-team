@@ -8,7 +8,6 @@ const Player = (props) => {
     const {image,fname,lname,status,price,country} = props.player;
     return (
         <div className="totalPlayer">
-            {/* <h1>Total Players: {props.player.length}</h1> */}
             <div className="player">
                 <img src={image} alt=""/>
                 <div className="playerInfo">
