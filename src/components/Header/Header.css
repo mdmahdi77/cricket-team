@@ -1,0 +1,58 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: crimson;
+    padding: 10px 0;
+}
+.logo img{
+    height: 50px;
+    margin-left: 100px;
+    cursor: pointer;
+}
+.navList{
+    display: flex;
+    margin-right: 100px;
+    padding-top: 20px;
+}
+.navList li{
+    list-style: none;
+    margin: 0 20px;
+}
+.navList li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 500;
+    transition: 0.5s;
+}
+.navList li a:hover{
+    color: blue;
+    letter-spacing: 2px;
+}
+.header .background{
+    width: 100%
+}
+.ipl{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ipl img{
+    height: 200px;
+}
+.ipl h2{
+    display: flex;
+    align-items: center;
+    font-size: 80px;
+    margin: 0 20px;
+}
+.header h3{
+    font-size: 50px;
+    display: inline-flex;
+    margin-left: 500px;
+    padding: 20px;
+    color: crimson;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+    font-family: serif;
+}

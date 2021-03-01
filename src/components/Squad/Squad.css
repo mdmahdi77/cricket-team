@@ -1,0 +1,22 @@
+.squad{
+    margin-top: 30px;
+    font-family: serif;
+}
+.squad h1{
+    font-size: 50px;
+    border: 1px solid crimson;
+    border-radius: 20px;
+    padding: 10px 40px;
+    margin-bottom: 40px;
+}
+.squadTotal{
+    margin-bottom: 40px;
+    margin-left: 10px;
+}
+.squadTotal h3{
+    color: crimson;
+    font-weight: 700;
+}
+.squadTotal h3 span{
+    color: darkgrey;
+}

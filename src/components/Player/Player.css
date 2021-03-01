@@ -1,0 +1,24 @@
+.player{
+    display: flex;
+    border-bottom: 1px solid darkgrey;
+    padding: 30px;
+    font-family: serif;
+}
+.player img{
+    height: 300px;
+    margin-right: 60px;
+}
+.playerInfo h2{
+    font-size: 60px;
+}
+.playerInfo h3{
+    color: crimson;
+}
+.playerInfo h4{
+    color: blue;
+    font-size: 20px;
+    font-weight: 700;
+}
+.playerInfo span{
+    color: gray;
+}

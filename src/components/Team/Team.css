@@ -1,0 +1,19 @@
+.teamContainer{
+    display: flex;
+    justify-content: center;
+}
+.playerContainer{
+    width: 60%;
+    border-right: 1px solid darkgray;
+    margin: 30px;
+}
+.playerContainer h1{
+    display: inline;
+    border: 1px solid crimson;
+    border-radius: 10px;
+    padding: 10px 30px;
+    margin-bottom: 40px;
+}
+.squadContainer{
+    margin: 30px;
+}
